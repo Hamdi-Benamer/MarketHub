@@ -1,3 +1,5 @@
+Note: Currently the backened deployment is on pause due to usage limits. Thus meaning it will not function as intended. Feel free to explore the code
+
 # MarketHub
 
 MarketHub is a marketplace platform designed to connect buyers and sellers. It provides a space where users can register, log in, and participate in transactions. While the foundation is in place, several features are still under development, and the platform is evolving with future enhancements planned.
