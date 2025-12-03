@@ -1,3 +1,4 @@
+Note: This project is a collaboration between Hamdi and Karim.
 Note: Currently the backened deployment is on pause due to usage limits. Thus meaning it will not function as intended. Feel free to explore the code
 
 # MarketHub
